@@ -1,0 +1,12 @@
+.vscode/
+
+venv
+
+__pycache__
+
+
+*.disabled
+
+
+# *.secret
+.env
