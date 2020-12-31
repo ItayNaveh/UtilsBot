@@ -1,12 +1,7 @@
 .vscode/
 
-venv
+node_modules/
 
-__pycache__
+package-lock.json
 
-
-*.disabled
-
-
-# *.secret
 .env
