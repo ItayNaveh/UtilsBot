@@ -1,0 +1,8 @@
+import { CommandOptions, CommandGenerator } from "eris";
+
+
+export const name = "";
+
+export const settings: CommandOptions = {};
+
+export const exec: CommandGenerator = (msg, args) => {};
